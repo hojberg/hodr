@@ -1,4 +1,4 @@
-import Opaque from "./opaque";
+import Opaque from "./Opaque";
 import { Result, Err, Ok } from "seidr";
 
 type Email = Opaque<string>;
