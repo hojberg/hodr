@@ -1,6 +1,6 @@
 {
   "name": "hodr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
     "lint": "eslint src/*",
     "prepublish": "npm test && npm run build"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Simon Højberg",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^25.2.1",
     "@typescript-eslint/eslint-plugin": "^2.30.0",
